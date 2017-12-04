@@ -9,3 +9,4 @@ UPDATE 04/12/17
 This was my third year java project at university. It simulates the motions of protons in a partcile accelerator known as a cyclotron.
 I used three different methods to update the position of the protons and compared them, RK4, Euler and Euler Cromer
 When the simulation has run the csv files that are output are the data for the 3 different methods ready to be graphed.
+The main method is located in Cyclotron.java
